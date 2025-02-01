@@ -4,7 +4,7 @@ This project is a machine learning application that predicts student performance
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Pipeline]
+- [Pipeline] (#Pipeline)
 - [Deployment on AWS](#deployment-on-aws)
 - [Technologies Used](#technologies-used)
 
