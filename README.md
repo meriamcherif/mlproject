@@ -57,6 +57,7 @@ Ensure you have the following installed:
    - Go to AWS Elastic Beanstalk and create an application.
    - Select Python as the platform.
    - Deploy an initial version manually or through AWS CodePipeline.
+ ![Elastic Beanstalk Setup](screenshots/beanstalk_env.png)
 
 2. **Setup AWS CodePipeline**
    - Connect Elastic Beanstalk to your GitHub repository.
@@ -66,6 +67,7 @@ Ensure you have the following installed:
 3. **Monitor Deployment**
    - Check AWS Elastic Beanstalk logs for errors.
    - Monitor pipeline execution in AWS CodePipeline.
+ ![Pipeline ](screenshots/pipeline.png)
 
 
 
