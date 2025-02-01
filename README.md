@@ -2,7 +2,7 @@
 This project is a machine learning application that predicts student performance based on various input features. The application is deployed on AWS Elastic Beanstalk using CodePipeline.
 
 ## Installation
-# Prerequisites
+### Prerequisites
 
 Ensure you have the following installed:
 
