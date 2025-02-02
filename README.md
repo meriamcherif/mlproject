@@ -6,8 +6,6 @@ This project is a machine learning application that predicts student performance
 - [Usage](#usage)
 - [Pipeline](#pipeline)
 - [Deployment on AWS](#deployment-on-aws)
-- [Technologies Used](#technologies-used)
-
 ## Installation
 
 ### Prerequisites
